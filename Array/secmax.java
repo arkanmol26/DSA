@@ -24,7 +24,7 @@ class secmax{
 
         }
         System.out.println(slargest);
-       
+       sc.close();
     }
 
 }
