@@ -1,3 +1,7 @@
 {
-    "java.project.sourcePaths": ["Array"]
+    "java.project.sourcePaths": [
+        "Array",
+        "Sorting",
+        "ArrayList"
+    ]
 }
